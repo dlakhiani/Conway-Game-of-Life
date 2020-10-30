@@ -30,7 +30,7 @@ int main(int argc, char *argv[]) {
   char input[10];
 
   if (argc != 5) {
-    printf("Usage: ./cgol filename.seed #OfTicks rows columns\n");
+    printf("Usage: ./dynCGOL filename.seed #OfTicks rows columns\n");
     return 1;
   } else {
     ticks= atoi(argv[2]);
