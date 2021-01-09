@@ -1,5 +1,4 @@
-# How to run cgol:
-
+# Building and Running
 cgol (20 rows by 40 columns)
 * compile: make cgol
 * execute: ./cgol filename.seed (# of ticks)
